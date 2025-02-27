@@ -1,0 +1,22 @@
+# arquivos de configuração e cookies
+tiktok_cookies.json
+
+# screenshots
+*.png
+
+# ambiente virtual python
+venv/
+env/
+.env/
+
+# cache python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# logs
+*.log
+
+# arquivos do sistema
+.DS_Store
+Thumbs.db 

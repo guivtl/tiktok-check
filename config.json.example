@@ -1,0 +1,5 @@
+{
+    "sadcaptcha_api_key": "sua_chave_api_sadcaptcha",
+    "telegram_bot_token": "seu_token_bot_telegram",
+    "telegram_chat_id": "seu_chat_id_telegram"
+} 

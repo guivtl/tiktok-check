@@ -1,0 +1,5 @@
+selenium==4.18.1
+webdriver-manager==4.0.1
+colorama==0.4.6
+requests==2.31.0
+tiktok-captcha-solver==1.0.0 
